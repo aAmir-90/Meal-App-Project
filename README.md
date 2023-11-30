@@ -1,2 +1,3 @@
 # Meal-App-Project
-MealApp Project
+MealApp Project with HTML, CSS & JS
+
